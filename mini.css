@@ -1,19 +1,7 @@
 /* 全局*/
 *{margin:0;padding:0}
 *{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box}
-@font-face {
-  font-family: 'iconfont';
-  src: url('../font/iconfont.ttf') format('truetype'),
-  url('../font/iconfont.woff') format('woff');
 
-}
-.iconfont {
-  font-family: "iconfont" !important;
-  font-size: 16px;
-  font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 body{font-family:"微软雅黑","Microsoft YaHei","Microsoft YaHei UI","Segoe UI",Arial,Verdana,Sans-Serif,sans-serif;background-color:#1e1e1e}
 ul,li,a{list-style-type:none;text-decoration:none;cursor:pointer;}
 button{margin: 0px;padding: 0px;border: 0px;outline: none;}
